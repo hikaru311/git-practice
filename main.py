@@ -1,2 +1,2 @@
 print("こんにちは")
-djkou
+fjfjfjfjjf
